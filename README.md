@@ -1,1 +1,0 @@
-# yarychkivskalab.github.io
