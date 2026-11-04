@@ -161,7 +161,6 @@ img,video{max-width:100%}
 .approach-item{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px}
 .approach-art{width:min(100%,130px);aspect-ratio:300/320;position:relative;overflow:hidden}
 .approach-art img{position:absolute;top:-2.5%;width:491.3%;max-width:none;height:auto;mix-blend-mode:screen;opacity:.9}
-.approach-num{font-family:var(--font-display);font-weight:300;font-size:24px;line-height:1;color:var(--claret-300)}
 .approach-title{font-family:var(--font-display);font-weight:600;font-size:var(--fs-h3);color:#fff}
 .approach-text{font-size:14px;line-height:1.45;color:var(--text-on-inverse-muted);max-width:240px}
 
